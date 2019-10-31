@@ -5,7 +5,7 @@ Questa libreria è destinata alla convalida di CPF. Nella versione corrente è i
 
 $  npm install cpf-validator-dj
 
-## Como utilizar
+## Come usare
 
 > const validator = require("cpf-validator-dj");
 > console.log(cpfValidator('84117631020'))
