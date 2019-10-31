@@ -1,0 +1,1 @@
+console.log(exportar('00768208238'))

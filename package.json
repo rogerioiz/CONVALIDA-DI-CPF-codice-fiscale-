@@ -1,0 +1,27 @@
+{
+  "name": "cpf-validator-dj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheyme-jensen/cpf-validator-dj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheyme-jensen/cpf-validator-dj/issues"
+  },
+  "homepage": "https://github.com/dheyme-jensen/cpf-validator-dj#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
+  }
+}
